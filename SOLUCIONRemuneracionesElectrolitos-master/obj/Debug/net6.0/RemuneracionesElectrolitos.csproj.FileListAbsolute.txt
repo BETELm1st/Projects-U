@@ -1,0 +1,15 @@
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\obj\Debug\net6.0\RemuneracionesElectrolitos.csproj.AssemblyReference.cache
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\obj\Debug\net6.0\RemuneracionesElectrolitos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\obj\Debug\net6.0\RemuneracionesElectrolitos.AssemblyInfoInputs.cache
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\obj\Debug\net6.0\RemuneracionesElectrolitos.AssemblyInfo.cs
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\obj\Debug\net6.0\RemuneracionesElectrolitos.csproj.CoreCompileInputs.cache
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\bin\Debug\net6.0\RemuneracionesElectrolitos.exe
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\bin\Debug\net6.0\RemuneracionesElectrolitos.deps.json
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\bin\Debug\net6.0\RemuneracionesElectrolitos.runtimeconfig.json
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\bin\Debug\net6.0\RemuneracionesElectrolitos.dll
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\bin\Debug\net6.0\RemuneracionesElectrolitos.pdb
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\obj\Debug\net6.0\RemuneracionesElectrolitos.dll
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\obj\Debug\net6.0\refint\RemuneracionesElectrolitos.dll
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\obj\Debug\net6.0\RemuneracionesElectrolitos.pdb
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\obj\Debug\net6.0\RemuneracionesElectrolitos.genruntimeconfig.cache
+E:\Ucsm\ProgramacionNet\RemuneracionesElectrolitos-master\obj\Debug\net6.0\ref\RemuneracionesElectrolitos.dll
